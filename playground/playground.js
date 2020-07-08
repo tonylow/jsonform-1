@@ -98,7 +98,11 @@ $('document').ready(function () {
           'templating-tpldata': 'Templating - Using the tpldata property',
           'events': 'Using event handlers',
           'previousvalues': 'Using previously submitted values',
-          'factory-sleek': 'Joshfire Factory - Sleek template'
+          'factory-sleek': 'Joshfire Factory - Sleek template',
+          'api-product' : 'API Product',
+          'api-catalog' : 'API Catalog',
+          'api-sandbox' : 'API Sandbox',
+          'api-create' : 'API Create'
         },
         onChange: function (evt) {
           var selected = $(evt.target).val();
