@@ -44,7 +44,11 @@ $('document').ready(function () {
           'templating-tpldata',
           'events',
           'previousvalues',
-          'factory-sleek'
+          'factory-sleek',  
+          'api-product',
+          'api-catalog',
+          'api-sandbox',
+          'api-create'
         ],
         'default': 'gettingstarted'
       },
@@ -103,6 +107,7 @@ $('document').ready(function () {
           'api-catalog' : 'API Catalog',
           'api-sandbox' : 'API Sandbox',
           'api-create' : 'API Create'
+
         },
         onChange: function (evt) {
           var selected = $(evt.target).val();

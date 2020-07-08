@@ -1,0 +1,25 @@
+{
+    "apiResources": [],
+    "approvalType": "auto",
+    "attributes": [
+      {
+        "name": "access",
+        "value": "public"
+      }
+    ],
+    "createdAt": 1593170935879,
+    "createdBy": "tonylow@google.com",
+    "description": "",
+    "displayName": "AppSheet",
+    "environments": [
+      "prod",
+      "test"
+    ],
+    "lastModifiedAt": 1593170935879,
+    "lastModifiedBy": "tonylow@google.com",
+    "name": "AppSheet",
+    "proxies": [
+      "datazoodemo"
+    ],
+    "scopes": []
+  }
