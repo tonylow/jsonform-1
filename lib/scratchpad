@@ -1,0 +1,1 @@
+<input type=button onClick="location.href='./?exmaples=api-catalog'" value='click here to visit home page'>
